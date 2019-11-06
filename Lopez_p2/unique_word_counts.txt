@@ -1,0 +1,7 @@
+mouse: 2
+haha: 3
+jordan: 2
+cat: 2
+ice: 1
+hello: 2
+dog: 1
